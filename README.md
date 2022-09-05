@@ -1,3 +1,3 @@
-# Web App to Check is your birthdate is Palindrome for MARK13
+# Palindrome Birthday
 
-Project URL : here
+Project URL : https://amazing-gelato-26e0b5.netlify.app/
